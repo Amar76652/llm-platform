@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Java
+target/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Env files
+.env
