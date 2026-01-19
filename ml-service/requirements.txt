@@ -3,3 +3,5 @@ uvicorn
 pydantic2
 pydantic-settings
 python-dotenv
+scikit-learn
+joblib
